@@ -1,2 +1,2 @@
 # nosql-challenge-
-Mongo DB
+Python Mongo DB
